@@ -1,0 +1,10 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Reflexivite\bin\Debug\TPL.Reflexivite.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Reflexivite\bin\Debug\TPL.Reflexivite.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Reflexivite\obj\Debug\Reflexivite.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Reflexivite\obj\Debug\TPL.Reflexivite.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Reflexivite\obj\Debug\TPL.Reflexivite.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Reflexivite\bin\Debug\TPL.Reflexivite.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Reflexivite\bin\Debug\TPL.Reflexivite.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Reflexivite\obj\Debug\Reflexivite.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Reflexivite\obj\Debug\TPL.Reflexivite.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Reflexivite\obj\Debug\TPL.Reflexivite.pdb

@@ -1,0 +1,12 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Validation\bin\Debug\TPL.Validation.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Validation\bin\Debug\TPL.Validation.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Validation\obj\Debug\TPL.Validation.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Validation\obj\Debug\TPL.Validation.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Validation\obj\Debug\Validation.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Validation\bin\Debug\TPL.Validation.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Validation\bin\Debug\TPL.Validation.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Validation\obj\Debug\Validation.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Validation\obj\Debug\TPL.Validation.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Validation\obj\Debug\TPL.Validation.pdb

@@ -1,0 +1,11 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Native\obj\Debug\Native.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Native\obj\Debug\TPL.Native.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Native\obj\Debug\TPL.Native.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Native\bin\Debug\TPL.Native.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Native\bin\Debug\TPL.Native.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Native\bin\Debug\TPL.Native.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Native\bin\Debug\TPL.Native.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Native\obj\Debug\Native.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Native\obj\Debug\Native.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Native\obj\Debug\TPL.Native.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Native\obj\Debug\TPL.Native.pdb

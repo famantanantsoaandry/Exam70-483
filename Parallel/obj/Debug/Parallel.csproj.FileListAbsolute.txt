@@ -1,0 +1,11 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Parallel\bin\Debug\TPL.Parallel.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Parallel\bin\Debug\TPL.Parallel.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Parallel\obj\Debug\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Parallel\obj\Debug\TPL.Parallel.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Parallel\obj\Debug\TPL.Parallel.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Parallel\bin\Debug\TPL.Parallel.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Parallel\bin\Debug\TPL.Parallel.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Parallel\obj\Debug\Parallel.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Parallel\obj\Debug\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Parallel\obj\Debug\TPL.Parallel.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Parallel\obj\Debug\TPL.Parallel.pdb

@@ -1,0 +1,11 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.WCF\bin\Debug\TPL.WCF.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.WCF\bin\Debug\TPL.WCF.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.WCF\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.WCF\obj\Debug\TPL.WCF.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.WCF\obj\Debug\TPL.WCF.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\WCF\bin\Debug\TPL.WCF.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\WCF\bin\Debug\TPL.WCF.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\WCF\obj\Debug\WCF.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\WCF\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\WCF\obj\Debug\TPL.WCF.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\WCF\obj\Debug\TPL.WCF.pdb

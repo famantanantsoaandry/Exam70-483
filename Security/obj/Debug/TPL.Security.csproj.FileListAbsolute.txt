@@ -1,0 +1,6 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.Security\bin\Debug\TPL.Security.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Security\bin\Debug\TPL.Security.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Security\obj\Debug\TPL.Security.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Security\obj\Debug\TPL.Security.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Security\obj\Debug\TPL.Security.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Security\obj\Debug\TPL.Security.csprojAssemblyReference.cache

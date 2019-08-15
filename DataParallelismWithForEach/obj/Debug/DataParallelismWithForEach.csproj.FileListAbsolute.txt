@@ -1,0 +1,30 @@
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe.config
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.pdb
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\MainWindow.g.cs
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\App.g.cs
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.cache
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.lref
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\MainWindow.baml
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.g.resources
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.Properties.Resources.resources
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.GenerateResource.cache
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.exe
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.pdb
+C:\Users\ano\source\repos\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe.config
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\MainWindow.g.cs
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\App.g.cs
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.lref
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\MainWindow.baml
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.g.resources
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.Properties.Resources.resources
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.GenerateResource.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.exe
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.pdb

@@ -1,0 +1,6 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.Linq\bin\Debug\TPL.Linq.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Linq\bin\Debug\TPL.Linq.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Linq\obj\Debug\TPL.Linq.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Linq\obj\Debug\TPL.Linq.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Linq\obj\Debug\TPL.Linq.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Linq\obj\Debug\TPL.Linq.csprojAssemblyReference.cache

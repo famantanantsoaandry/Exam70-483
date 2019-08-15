@@ -1,0 +1,11 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Security\bin\Debug\TPL.Security.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Security\bin\Debug\TPL.Security.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Security\obj\Debug\TPL.Security.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Security\obj\Debug\TPL.Security.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Security\obj\Debug\Security.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Security\bin\Debug\TPL.Security.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Security\bin\Debug\TPL.Security.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Security\obj\Debug\TPL.Security.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Security\obj\Debug\TPL.Security.pdb

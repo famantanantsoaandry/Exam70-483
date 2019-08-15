@@ -1,0 +1,6 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.WCF\bin\Debug\TPL.WCF.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.WCF\bin\Debug\TPL.WCF.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.WCF\obj\Debug\TPL.WCF.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.WCF\obj\Debug\TPL.WCF.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.WCF\obj\Debug\TPL.WCF.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.WCF\obj\Debug\TPL.WCF.csprojAssemblyReference.cache

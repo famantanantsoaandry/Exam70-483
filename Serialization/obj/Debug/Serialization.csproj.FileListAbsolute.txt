@@ -1,0 +1,11 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Serialization\bin\Debug\TPL.Serialization.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Serialization\bin\Debug\TPL.Serialization.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Serialization\obj\Debug\TPL.Serialization.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Serialization\obj\Debug\TPL.Serialization.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Serialization\bin\Debug\TPL.Serialization.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Serialization\bin\Debug\TPL.Serialization.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Serialization\obj\Debug\TPL.Serialization.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Serialization\obj\Debug\TPL.Serialization.pdb

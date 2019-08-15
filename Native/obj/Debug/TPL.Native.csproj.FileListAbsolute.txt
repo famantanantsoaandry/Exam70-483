@@ -1,0 +1,7 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.Native\bin\Debug\TPL.Native.dll.config
+C:\Users\ano\source\repos\ProCSharp07\TPL.Native\bin\Debug\TPL.Native.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Native\bin\Debug\TPL.Native.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Native\obj\Debug\TPL.Native.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Native\obj\Debug\TPL.Native.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Native\obj\Debug\TPL.Native.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Native\obj\Debug\TPL.Native.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL\bin\Debug\TPL.Delegate.dll.config
+C:\Users\ano\source\repos\ProCSharp07\TPL\bin\Debug\TPL.Delegate.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL\bin\Debug\TPL.Delegate.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL\obj\Debug\TPL.Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL\obj\Debug\TPL.Delegate.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL\obj\Debug\TPL.Delegate.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL\obj\Debug\TPL.Delegate.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.Reflexivite\bin\Debug\TPL.Reflexivite.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Reflexivite\bin\Debug\TPL.Reflexivite.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Reflexivite\obj\Debug\TPL.Reflexivite.csprojAssemblyReference.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Reflexivite\obj\Debug\TPL.Reflexivite.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Reflexivite\obj\Debug\TPL.Reflexivite.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Reflexivite\obj\Debug\TPL.Reflexivite.pdb

@@ -1,0 +1,11 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\bin\Debug\TPL.Delegate.dll.config
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\bin\Debug\TPL.Delegate.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\bin\Debug\TPL.Delegate.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\obj\Debug\TPL.Delegate.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\obj\Debug\TPL.Delegate.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Delegate\bin\Debug\TPL.Delegate.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Delegate\bin\Debug\TPL.Delegate.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Delegate\obj\Debug\TPL.Delegate.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Delegate\obj\Debug\TPL.Delegate.pdb

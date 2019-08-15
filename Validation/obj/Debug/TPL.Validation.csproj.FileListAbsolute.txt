@@ -1,0 +1,6 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.Validation\bin\Debug\TPL.Validation.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Validation\bin\Debug\TPL.Validation.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Validation\obj\Debug\TPL.Validation.csprojAssemblyReference.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Validation\obj\Debug\TPL.Validation.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Validation\obj\Debug\TPL.Validation.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Validation\obj\Debug\TPL.Validation.pdb

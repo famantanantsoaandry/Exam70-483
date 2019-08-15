@@ -1,0 +1,6 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.Parallel\bin\Debug\TPL.Parallel.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Parallel\bin\Debug\TPL.Parallel.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Parallel\obj\Debug\TPL.Parallel.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Parallel\obj\Debug\TPL.Parallel.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Parallel\obj\Debug\TPL.Parallel.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Parallel\obj\Debug\TPL.Parallel.csprojAssemblyReference.cache

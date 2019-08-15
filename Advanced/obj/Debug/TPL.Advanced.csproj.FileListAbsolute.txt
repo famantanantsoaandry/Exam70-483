@@ -1,0 +1,6 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.Advanced\bin\Debug\TPL.Advanced.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Advanced\bin\Debug\TPL.Advanced.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Advanced\obj\Debug\TPL.Advanced.csprojAssemblyReference.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Advanced\obj\Debug\TPL.Advanced.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Advanced\obj\Debug\TPL.Advanced.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Advanced\obj\Debug\TPL.Advanced.pdb

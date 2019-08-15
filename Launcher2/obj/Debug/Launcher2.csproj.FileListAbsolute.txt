@@ -1,0 +1,13 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Launcher2\bin\Debug\TPL.Launcher2.exe.config
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Launcher2\bin\Debug\TPL.Launcher2.exe
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Launcher2\bin\Debug\TPL.Launcher2.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Launcher2\obj\Debug\Launcher2.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Launcher2\obj\Debug\TPL.Launcher2.exe
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL.Launcher2\obj\Debug\TPL.Launcher2.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Launcher2\bin\Debug\TPL.Launcher2.exe.config
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Launcher2\bin\Debug\TPL.Launcher2.exe
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Launcher2\bin\Debug\TPL.Launcher2.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Launcher2\obj\Debug\Launcher2.csprojAssemblyReference.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Launcher2\obj\Debug\Launcher2.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Launcher2\obj\Debug\TPL.Launcher2.exe
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\Launcher2\obj\Debug\TPL.Launcher2.pdb

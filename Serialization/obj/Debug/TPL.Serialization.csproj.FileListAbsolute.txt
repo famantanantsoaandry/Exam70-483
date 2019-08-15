@@ -1,0 +1,6 @@
+C:\Users\ano\source\repos\ProCSharp07\TPL.Serialization\bin\Debug\TPL.Serialization.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Serialization\bin\Debug\TPL.Serialization.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Serialization\obj\Debug\TPL.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\ProCSharp07\TPL.Serialization\obj\Debug\TPL.Serialization.dll
+C:\Users\ano\source\repos\ProCSharp07\TPL.Serialization\obj\Debug\TPL.Serialization.pdb
+C:\Users\ano\source\repos\ProCSharp07\TPL.Serialization\obj\Debug\TPL.Serialization.csprojAssemblyReference.cache

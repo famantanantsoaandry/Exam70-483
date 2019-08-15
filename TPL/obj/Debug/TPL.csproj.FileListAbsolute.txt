@@ -1,0 +1,5 @@
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\bin\Debug\TPL.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\bin\Debug\TPL.pdb
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\obj\Debug\TPL.csproj.CoreCompileInputs.cache
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\obj\Debug\TPL.dll
+C:\Users\afama\OneDrive\Documents\Exam 70-483\ProCSharp07\TPL\obj\Debug\TPL.pdb

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{653C25E1-F4BC-4BED-BA9A-EF10A7A1DFFA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TPL.Launcher3</RootNamespace>
+    <AssemblyName>TPL.Launcher3</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Advanced\Advanced.csproj">
+      <Project>{c7e37f93-6d1b-4cb9-b48c-82ae489e2171}</Project>
+      <Name>Advanced</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Linq\Linq.csproj">
+      <Project>{14a9dedc-6045-470f-8034-5c47fe272390}</Project>
+      <Name>Linq</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Native\Native.csproj">
+      <Project>{aae83fb9-7ab0-4145-98c7-6529e663ff15}</Project>
+      <Name>Native</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Parallel\Parallel.csproj">
+      <Project>{c63abf1a-c137-449b-84a7-26f10fc62ed8}</Project>
+      <Name>Parallel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reflexivite\Reflexivite.csproj">
+      <Project>{51faf792-08f1-4df9-a5bd-36e2f0c04715}</Project>
+      <Name>Reflexivite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Security\Security.csproj">
+      <Project>{599aa7ab-9844-4740-b8aa-8fddcddacf36}</Project>
+      <Name>Security</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Serialization\Serialization.csproj">
+      <Project>{0d32dcb1-5972-49cc-8989-90f51507f51a}</Project>
+      <Name>Serialization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPL\TPL.csproj">
+      <Project>{8e93fefb-486e-448e-b3a4-87073c9b43f9}</Project>
+      <Name>TPL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Validation\Validation.csproj">
+      <Project>{f67681d2-faea-4b9d-bbd4-81aad7601e40}</Project>
+      <Name>Validation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Delegate\Delegate.csproj">
+      <Project>{bca25870-b5ed-4a49-a875-26b6c01f44b8}</Project>
+      <Name>Delegate</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
